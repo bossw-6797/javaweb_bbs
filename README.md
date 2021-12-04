@@ -1,4 +1,4 @@
-# javaweb_bbs
+# bbs
 
 这是一个基于myeclipse与SQL server的校园bbs 
 
